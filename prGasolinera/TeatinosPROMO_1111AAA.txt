@@ -1,0 +1,7 @@
+Ticket: 1 Ticket: 12 (gasolinera: TeatinosPROMO, matricula: 1111AAA, litros: 20.0, PRECIO = 25.6)
+
+Ticket: 2 Ticket: 14 (gasolinera: TeatinosPROMO, matricula: 1111AAA, litros: 60.0, PRECIO = 76.8)
+
+Ticket: 3 Ticket: 16 (gasolinera: TeatinosPROMO, matricula: 1111AAA, litros: 60.0, PRECIO = 76.8)
+
+TOTAL = 179.2

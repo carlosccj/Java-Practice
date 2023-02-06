@@ -1,0 +1,8 @@
+(pepe luis, 11a, 5.60)
+
+(Ana Rosa, 22B, 7.80)
+
+(Pepe Luis, 11A, 7.10)
+
+(Lola, 44D, 8.20)
+

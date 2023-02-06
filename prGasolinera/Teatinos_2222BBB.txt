@@ -1,0 +1,5 @@
+Ticket: 1 Ticket: 4 (gasolinera: Teatinos, matricula: 2222BBB, litros: 45.0, PRECIO = 56.25)
+
+Ticket: 2 Ticket: 5 (gasolinera: Teatinos, matricula: 2222BBB, litros: 45.0, PRECIO = 58.5)
+
+TOTAL = 114.75
